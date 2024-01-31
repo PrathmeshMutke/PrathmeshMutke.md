@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/3NX63dV5/Twitter.png">
+
 <h1 align="center">Hi 👋, I'm Prathmesh Mutke</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
